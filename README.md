@@ -44,11 +44,17 @@ Using Pivot Tables, the following analyses were performed:
 <img width="960" height="476" alt="Pivot Table" src="https://github.com/user-attachments/assets/414aa437-a455-4bd1-9006-cbf364b6e7fb" />
 
 Expense by Department
+
 Expense by Category
+
 Monthly Expense Trend
+
 Payment Method Analysis
+
 Budget vs Actual Spending
+
 Approval Status Analysis
+
 
 3️⃣ Dashboard Development
 <img width="928" height="459" alt="Dashboard view" src="https://github.com/user-attachments/assets/54d7e9b9-321b-46e2-8a19-9ee89850967b" />
