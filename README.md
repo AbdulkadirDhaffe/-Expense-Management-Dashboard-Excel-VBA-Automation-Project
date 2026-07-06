@@ -61,14 +61,22 @@ Approval Status Analysis
 
 Created an interactive Excel dashboard featuring:
 
-KPI Cards
+KPI Cards:
+
 Department Analysis
+
 Category Breakdown
+
 Monthly Trend Analysis
+
 Budget vs Actual Comparison
+
 Payment Method Distribution
+
 Interactive Slicers
+
 VBA Automation
+
 
 Visual Basic for Applications (VBA) was used to automate several reporting tasks.
 
