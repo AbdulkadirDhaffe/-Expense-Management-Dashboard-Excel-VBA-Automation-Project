@@ -126,4 +126,5 @@ This project demonstrates how Excel can be transformed into a powerful business 
 Author
 
 Abdulkadir Dhaffe
-Data Analyst
+
+Aspiring Data Analyst
